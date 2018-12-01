@@ -1,5 +1,6 @@
 # Textbuffer 
 [![GoDoc](https://godoc.org/github.com/ykhrustalev/textbuffer?status.svg)](https://godoc.org/github.com/ykhrustalev/textbuffer)
+[![CircleCI](https://circleci.com/gh/ykhrustalev/textbuffer/tree/master.svg?style=svg&circle-token=224c25c49bd50442bda21c2d27035120c0f661f0)](https://circleci.com/gh/ykhrustalev/textbuffer/tree/master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ykhrustalev/textbuffer)](https://goreportcard.com/report/github.com/ykhrustalev/textbuffer)
 
 Package textbuffer provides a way to buffer text data based on a number of
